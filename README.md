@@ -26,6 +26,7 @@ Roadmap / individual development plan
     - [ ] Lambdas;
     - [ ] OOP;
     - [ ] Modules (builtin, custom);
+    - [ ] Logging;
     - [ ] Iterators.
 - Version control systems
     - [ ] GIT;
@@ -34,5 +35,105 @@ Roadmap / individual development plan
     - [ ] GitHub;
     - [ ] GitLab;
     - [ ] BitBucket.
+- Package management
+    - [ ] pip;
+    - [ ] PyPI.
+- Sync Frameworks
+    - [ ] Django;
+    - [ ] Flask.
+- Async frameworks
+    - [ ] fastAPI,
+    - [ ] tornado.
+- ORMs
+    - [ ] SQL alchemy;
+    - [ ] Alembic;
+    - [ ] PonyORM.
+- Testing
+    - [ ] unittest
+</details>
 
+<details>
+  <summary>Generic backend developer skills</summary>
+
+- Internet
+    - [ ] How does the internet work;
+    - [ ] HTTP;
+    - [ ] DNS;
+    - [ ] Browsers and how they work;
+- Operating systems
+    - [ ] How OS work in general;
+    - [ ] Process management;
+    - [ ] Threads and concurrency;
+    - [ ] Basic UNIX commands;
+    - [ ] Memory management;
+    - [ ] Interprocess communications;
+    - [ ] I/O management;
+    - [ ] POSIX basics (stdin, stdout, stderr, pipes);
+    - [ ] Basic network concepts.
+- Relational databases
+    - [ ] PostgreSQL;
+    - [ ] ORMs;
+    - [ ] ACID;
+    - [ ] Transactions;
+    - [ ] N+1 problem;
+    - [ ] Database normalization;
+    - [ ] Indexes and how they work.
+- NoSQL databases
+    - [ ] MongoDB;
+    - [ ] Cassandra;
+    - [ ] InfluxDB;
+    - [ ] Firebase.
+- APIs
+    - [ ] REST;
+    - [ ] JSON APIs;
+    - [ ] gRPC;
+    - [ ] Websocket API.
+- Authentication
+    - [ ] OAuth;
+    - [ ] Basic auth;
+    - [ ] Token auth;
+    - [ ] JWT.
+- Caching
+    - [ ] CDN;
+    - [ ] Server side (Redis, memcached);
+    - [ ] Client side.
+- Web security
+    - [ ] Hashing (sha, scrypt, bcrypt, MD5 and why it's deprecated);
+    - [ ] HTTPS;
+    - [ ] CSP;
+    - [ ] CORS;
+    - [ ] SSL/TLS;
+    - [ ] OWASP security risks and cheatsheet.
+- Testing
+    - [ ] Integration testing;
+    - [ ] Unit testing;
+    - [ ] Functional testing.
+    - [ ] CI/CD.
+- Design principles
+    - [ ] GOF design patterns;
+    - [ ] DDD;
+    - [ ] TDD;
+    - [ ] SOLID;
+    - [ ] KISS;
+    - [ ] YAGNI;
+    - [ ] DRY.
+- Architectural patterns
+    - [ ] Monolithic app;
+    - [ ] Microservices;
+    - [ ] Serverless.
+- Search engines
+    - [ ] Elasticsearch;
+    - [ ] Solr.
+- Message brockers
+    - [ ] RabbitMQ;
+    - [ ] Kafka.
+- Containerization, virtualization
+    - [ ] Docker;
+    - [ ] Docker swarm;
+    - [ ] Kubernetes.
+- Web servers
+    - [ ] Nginx.
+- Highload and scale
+    - [ ] Mitigation strategies (graceful degradation, throttling, backpressure, loadshifting, circuit breaker);
+    - [ ] Horizontal vs Vertical scaling.
 </details>
