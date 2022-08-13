@@ -1,5 +1,9 @@
 # Roadmap / individual development plan
-> Progress is progress, no matter how small. Smaller steps are easier to maintain and become habituated
+ ```js
+function getMotivationQuote() {
+    return "Progress is progress, no matter how small. Smaller steps are easier to maintain and become habituated"
+}
+```
 <details>
   <summary>Generic backend developer skills</summary>
 
