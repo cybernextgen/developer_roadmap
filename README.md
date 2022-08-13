@@ -1,57 +1,6 @@
 # developer_roadmap
 Roadmap / individual development plan
 
-
-<details>
-  <summary>Python developer skills</summary>
-  
-- Basic
-    - [ ] Basic sintax;
-    - [ ] Variables and datatypes;
-    - [ ] Conditionals;
-    - [ ] Type casting;
-    - [ ] Exceptions;
-    - [ ] Functions, builtin functions;
-    - [ ] Lists, Tuples, Sets, Dictionaries.
-- Datastructures and algorithms
-    - [ ] Arrays and linked lists;
-    - [ ] Heaps, stacks, queues;
-    - [ ] Hash tables;
-    - [ ] Binary search trees;
-    - [ ] Recursion;
-    - [ ] Sorting algorithms.
- - Advanced topics
-    - [ ] Regular expressions;
-    - [ ] Decorators;
-    - [ ] Lambdas;
-    - [ ] OOP;
-    - [ ] Modules (builtin, custom);
-    - [ ] Logging;
-    - [ ] Iterators.
-- Version control systems
-    - [ ] GIT;
-    - [ ] Mercurial;
-- Repo hosting services
-    - [ ] GitHub;
-    - [ ] GitLab;
-    - [ ] BitBucket.
-- Package management
-    - [ ] pip;
-    - [ ] PyPI.
-- Sync Frameworks
-    - [ ] Django;
-    - [ ] Flask.
-- Async frameworks
-    - [ ] fastAPI,
-    - [ ] tornado.
-- ORMs
-    - [ ] SQL alchemy;
-    - [ ] Alembic;
-    - [ ] PonyORM.
-- Testing
-    - [ ] unittest
-</details>
-
 <details>
   <summary>Generic backend developer skills</summary>
 
@@ -136,4 +85,107 @@ Roadmap / individual development plan
 - Highload and scale
     - [ ] Mitigation strategies (graceful degradation, throttling, backpressure, loadshifting, circuit breaker);
     - [ ] Horizontal vs Vertical scaling.
+</details>
+
+<details>
+  <summary>Python developer skills</summary>
+  
+- Basic
+    - [ ] Basic sintax;
+    - [ ] Variables and datatypes;
+    - [ ] Conditionals;
+    - [ ] Type casting;
+    - [ ] Exceptions;
+    - [ ] Functions, builtin functions;
+    - [ ] Lists, Tuples, Sets, Dictionaries.
+- Datastructures and algorithms
+    - [ ] Arrays and linked lists;
+    - [ ] Heaps, stacks, queues;
+    - [ ] Hash tables;
+    - [ ] Binary search trees;
+    - [ ] Recursion;
+    - [ ] Sorting algorithms.
+ - Advanced topics
+    - [ ] Regular expressions;
+    - [ ] Decorators;
+    - [ ] Lambdas;
+    - [ ] OOP;
+    - [ ] Modules (builtin, custom);
+    - [ ] Logging;
+    - [ ] Iterators.
+- Version control systems
+    - [ ] GIT;
+    - [ ] Mercurial;
+- Repo hosting services
+    - [ ] GitHub;
+    - [ ] GitLab;
+    - [ ] BitBucket.
+- Package management
+    - [ ] pip;
+    - [ ] PyPI.
+- Sync Frameworks
+    - [ ] Django;
+    - [ ] Flask.
+- Async frameworks
+    - [ ] fastAPI,
+    - [ ] tornado.
+- ORMs
+    - [ ] SQL alchemy;
+    - [ ] Alembic;
+    - [ ] PonyORM.
+- Testing
+    - [ ] unittest
+</details>
+
+<details>
+  <summary>Frontend developer skills</summary>
+  
+- HTML
+    - [ ] Basics;
+    - [ ] Forms and validation;
+    - [ ] Best practices.
+- CSS
+    - [ ] Basics;
+    - [ ] Making layouts (floats, positioning, display, box model, css grid, flex box);
+    - [ ] Responsive design and media queries;
+- Javascript
+    - [ ] Syntax and basic constructs;
+    - [ ] DOM manipulation;
+    - [ ] Fetch API / Ajax;
+    - [ ] ES6 and modular javascript;
+    - [ ] Concepts (hoisting, event bubbling, scope, prototype, shadow dom, strict).
+- Package managers
+    - [ ] NPM;
+    - [ ] Yarn.
+- CSS architecture
+    - [ ] BEM.
+- CSS preprocessors
+    - [ ] Sass.
+- Modern CSS
+    - [ ] Styled components;
+    - [ ] CSS modules.
+- Task runners
+    - [ ] NPM Scripts.
+- Bundlers
+    - [ ] Webpack;
+    - [ ] Esbuild;
+    - [ ] Rollup.
+- Linters
+    - [ ] ESlint;
+    - [ ] Prettier.
+- Frameworks
+    - [ ] React (redux);
+    - [ ] Angular (RxJs);
+    - [ ] Vue.js.
+- CSS frameworks
+    - [ ] Bootstrap;
+    - [ ] Tailwind CSS;
+    - [ ] Material UI.
+- Testing 
+    - [ ] Jest;
+    - [ ] react-testing-library;
+    - [ ] Cypress;
+    - [ ] Enzyme.
+- Type checking
+    - [ ] Typescript.
 </details>
